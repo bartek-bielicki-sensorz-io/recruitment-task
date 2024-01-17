@@ -1,0 +1,14 @@
+{
+  "name": "student-grading",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "gh0stek",
+  "private": true,
+  "scripts": {
+    "api:start-dev": "yarn workspace api start:dev"
+  }
+}
