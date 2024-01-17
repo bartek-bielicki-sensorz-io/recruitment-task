@@ -5,6 +5,7 @@
 - Run Docker app to complete the installation process.
 - Startup docker compose: `docker-compose up -d`
 
+
 ## Installation
 
 Tested with node v20.10.0
